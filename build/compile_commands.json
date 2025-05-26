@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lilian/Documents/projects/c/lambda-calculus-3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/lambda-calculus-3.dir/main.cpp.o -c /home/lilian/Documents/projects/c/lambda-calculus-3/main.cpp",
+  "file": "/home/lilian/Documents/projects/c/lambda-calculus-3/main.cpp",
+  "output": "CMakeFiles/lambda-calculus-3.dir/main.cpp.o"
+}
+]

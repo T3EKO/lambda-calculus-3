@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/lambda-calculus-3.dir/link.d "CMakeFiles/lambda-calculus-3.dir/main.cpp.o" -o lambda-calculus-3

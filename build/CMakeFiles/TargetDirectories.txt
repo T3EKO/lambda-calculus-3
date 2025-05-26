@@ -1,0 +1,3 @@
+/home/lilian/Documents/projects/c/lambda-calculus-3/build/CMakeFiles/lambda-calculus-3.dir
+/home/lilian/Documents/projects/c/lambda-calculus-3/build/CMakeFiles/edit_cache.dir
+/home/lilian/Documents/projects/c/lambda-calculus-3/build/CMakeFiles/rebuild_cache.dir
